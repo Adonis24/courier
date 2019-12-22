@@ -1,0 +1,6 @@
+framework module Pods_curier {
+  umbrella header "Pods-curier-umbrella.h"
+
+  export *
+  module * { export * }
+}
